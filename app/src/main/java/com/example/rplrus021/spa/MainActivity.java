@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         data_item = new data_item_spa();
         data_item.setId_item_product("aromaterapi_id");
         data_item.setName_item_product("AROMATERAPI");
-        data_item.setImage_item_product("http://pelatihanspa.com/wp-content/uploads/simpleecommcart/digitalproduct/aromaterapi.jpg");
+        data_item.setImage_item_product("http://medono.sideka.id/wp-content/uploads/sites/1454/2017/08/Wallpaper-Gambar-Pemandangan-Alam-Terbaru.jpg");
         data_item.setCost_item_product("2000");
         data_item.setDescription_item_product("DATA DESKRIPSI 1");
         arrayList.add(data_item);
