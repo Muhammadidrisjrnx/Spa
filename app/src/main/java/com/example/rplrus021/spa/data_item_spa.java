@@ -1,6 +1,7 @@
 package com.example.rplrus021.spa;
 
 public class data_item_spa {
+    //nama,gambar,harga
 
     private String name_item_product;
     private String image_item_product;
