@@ -27,14 +27,14 @@ public class MainActivity extends AppCompatActivity {
     private void load_data() {
         data_item = new data_item_spa();
         data_item.setId_item_product("aromaterapi_id");
-        data_item.setName_item_product("AROMATERAPI");
+        data_item.setName_item_product("Aromaterapi");
         data_item.setImage_item_product("http://medono.sideka.id/wp-content/uploads/sites/1454/2017/08/Wallpaper-Gambar-Pemandangan-Alam-Terbaru.jpg");
         data_item.setCost_item_product("2000");
         data_item.setDescription_item_product("DATA DESKRIPSI 1");
         arrayList.add(data_item);
         data_item = new data_item_spa();
         data_item.setId_item_product("lilin_pemanas_tungku_id");
-        data_item.setName_item_product("LILIN PEMANAS TUNGKU");
+        data_item.setName_item_product("Lilin Pemanas Tungku");
         data_item.setImage_item_product("http://pelatihanspa.com/wp-content/uploads/simpleecommcart/digitalproduct/candle.jpg");
         data_item.setCost_item_product("3000");
         data_item.setDescription_item_product("DATA DESKRIPSI 2");
